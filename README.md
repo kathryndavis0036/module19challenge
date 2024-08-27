@@ -22,8 +22,12 @@ This project performs clustering analysis on cryptocurrency data using K-Means c
 
   # Usage
 Load and Prepare Data: Update the path to your data file in the script.
+
 Run the Analysis: Execute the script to perform clustering and generate plots.
+
 View Results: Check the scatter plots and elbow curves to interpret the clustering results.
-Files
+
+  # Files
 crypto_market_data.csv: Input data file.
+
 clustering_analysis.py: Script for data analysis and visualization.
